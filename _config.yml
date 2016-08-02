@@ -1,0 +1,14 @@
+layout_spectrum: 0.7675785
+typography_spectrum: 0.1003584
+color:
+  saturation: 0.9008366
+  lightness: 0.934109
+  brandStrength: 0.5259885
+  brandColors:
+    - '#000000'
+    - '#C4C4C4'
+    - '#773306'
+    - '#9D7513'
+    - '#5B5B5B'
+  rhythmicContrast: 0.1293856
+name: GromSoul
