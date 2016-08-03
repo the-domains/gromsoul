@@ -1,8 +1,19 @@
-layout_spectrum: 0.9910395
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.9008366
-  lightness: 0.934109
   brandStrength: 0.5259885
+  lightness: 0.6003584
   brandColors:
     - '#000000'
     - '#C4C4C4'
@@ -11,4 +22,5 @@ color:
     - '#5B5B5B'
   rhythmicContrast: 0.1293856
 typography_spectrum: 0.1003584
+layout_spectrum: 0.02508961
 name: GromSoul
